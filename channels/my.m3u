@@ -68,137 +68,17 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1, TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-
-#EXTINF:-1, TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:-1, TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-
-#EXTINF:-1, NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-
-#EXTINF:-1, 8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-
-#EXTINF:-1, TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-
-#EXTINF:-1, Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1, Astro Awani
-http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
-
-#EXTINF:-1, Astro AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-
-#EXTINF:-1, Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-
-#EXTINF:-1, Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-
-#EXTINF:-1, Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1, Astro Oasis
-http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1, Astro Ceria http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1, Astro Citra
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-
-#EXTINF:-1, BOO
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-
-#EXTINF:-1, Hello
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-
-#EXTINF:-1, Naura
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF:-1, TVB Xing He
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-
-#EXTINF:-1, Astro Quan Jia
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-
-#EXTINF:-1, Astro AOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-
-#EXTINF:-1, Astro Xiao Tai Yang
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
-#EXTINF:-1, Astro Hua Hee Dai
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-
-#EXTINF:-1, Astro Shuang Xing
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-
-#EXTINF:-1, iQIYI
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-
-#EXTINF:-1, Fox Action Movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-
-#EXTINF:-1, Thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-
-#EXTINF:-1, AXN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-
-#EXTINF:-1, TLC
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-
-#EXTINF:-1, Fox Sports 1
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-
-#EXTINF:-1, Fox Sports 2
-http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-
-#EXTINF:-1, Fox Sports 3
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-
-#EXTINF:-1, Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-
-#EXTINF:-1, Fox Life
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-
-#EXTINF:-1, Fox Family Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-
-#EXTINF:-1, Fox HD
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-
-#EXTINF:-1, Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-
-#EXTINF:-1, HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1, HBO HiTS
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-
-#EXTINF:-1, HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
-#EXTINF:-1, HITS
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-
-#EXTINF:-1, HITS MOVIES
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-
-#EXTINF:-1, Celestial Movie
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-
-#EXTINF:-1, CCM
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-
-#EXTINF:-1, ONE
-http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTINF:-1,TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1,TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1,TV Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1,Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1,Sukan RTM
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1,TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1,RTM Parlimen
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
