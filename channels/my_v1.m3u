@@ -110,3 +110,6 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="ASTRO Broadcasting: Japan" tvg-logo="https://static.epg.best/kr/Animax.kr.png" ,Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ASTRO Broadcasting: News" tvg-logo="http://freeview.github.io/logos/tvs.png",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
