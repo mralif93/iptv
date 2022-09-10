@@ -90,11 +90,17 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
+#EXTINF:-1 group-title="ASTRO Broadcasting: TV" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+
+#EXTINF:-1 group-title="ASTRO Broadcasting: News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="ASTRO Broadcasting: TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 #EXTINF:-1 group-title="Korea" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://static.epg.best/kr/Animax.kr.png" ,Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="ASTRO Broadcasting: TV" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
